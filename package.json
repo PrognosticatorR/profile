@@ -27,7 +27,7 @@
         "fastify-swagger": "^2.4.0",
         "joi-to-json-schema": "^5.1.0",
         "lodash": "^4.17.15",
-        "mongoose": "^5.6.9",
+        "mongoose": "^5.7.5",
         "mongoose-unique-validator": "^2.0.3",
         "path": "^0.12.7",
         "payload-validator": "git+ssh://git@github.com:tokenyz-ventures-limited/payloadSchemas.git",
