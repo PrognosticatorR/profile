@@ -19,7 +19,7 @@
         "cors": "^2.8.5",
         "dbschemas": "git+ssh://git@github.com:tokenyz-ventures-limited/mongoSchemas.git",
         "dotenv": "^8.1.0",
-        "fastify": "^2.7.1",
+        "fastify": "^2.15.1",
         "fastify-autoload": "^1.0.0",
         "fastify-formbody": "^3.1.0",
         "fastify-mongodb": "^1.0.1",
